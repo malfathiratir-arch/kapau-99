@@ -1,4 +1,4 @@
-# 🍛 Rumah Makan Kapau 99 - Full Stack Food Ordering App
+# Rumah Makan Kapau 99 - Full Stack Food Ordering App
 
 Aplikasi pemesanan makanan online lengkap seperti GrabFood, dibangun dengan React + Node.js + MongoDB.
 
@@ -18,7 +18,7 @@ Aplikasi pemesanan makanan online lengkap seperti GrabFood, dibangun dengan Reac
 
 ---
 
-## 📁 Struktur Project
+##  Struktur Project
 
 ```
 kapau99/
@@ -83,7 +83,7 @@ kapau99/
 
 ---
 
-## 🚀 Cara Install & Menjalankan
+## Cara Install & Menjalankan
 
 ### Prasyarat
 - **Node.js** v18+ (download: https://nodejs.org)
@@ -198,9 +198,9 @@ Frontend berjalan di: `http://localhost:5173`
 
 ---
 
-## 🎯 Fitur Lengkap
+## Fitur Lengkap
 
-### 👤 USER (Pelanggan)
+### USER (Pelanggan)
 - ✅ Register & Login
 - ✅ Browse menu (Makanan, Minuman, Nasi)
 - ✅ Pencarian menu real-time
@@ -211,13 +211,13 @@ Frontend berjalan di: `http://localhost:5173`
 - ✅ Riwayat pesanan dengan detail lengkap
 - ✅ AI Chat floating (kanan bawah)
 
-### 👨‍🍳 PETUGAS
+###  PETUGAS
 - ✅ Login khusus petugas
 - ✅ Dashboard statistik
 - ✅ CRUD menu + upload gambar ke Cloudinary
 - ✅ Kelola pesanan (update status)
 
-### 👑 ADMIN
+###  ADMIN
 - ✅ Semua fitur petugas
 - ✅ Lihat statistik pendapatan
 - ✅ Tambah / hapus petugas
@@ -271,7 +271,7 @@ POST /api/ai/chat                - Kirim pesan ke AI
 
 ---
 
-## 🎨 Halaman Frontend
+##  Halaman Frontend
 
 | Path                    | Deskripsi            | Akses       |
 |-------------------------|----------------------|-------------|
@@ -289,7 +289,7 @@ POST /api/ai/chat                - Kirim pesan ke AI
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **MongoDB tidak terhubung:**
 ```bash
@@ -317,7 +317,7 @@ PORT=5001
 
 ---
 
-## 📦 Dependencies Utama
+##  Dependencies Utama
 
 ### Backend
 - `express` - Web framework
@@ -338,7 +338,7 @@ PORT=5001
 
 ---
 
-## 💡 Tips Pengembangan Lanjutan
+## Tips Pengembangan Lanjutan
 
 1. **Tambah OpenAI** - Ganti `aiController.js` dengan OpenAI API untuk respon lebih cerdas
 2. **Real-time** - Tambah Socket.io untuk notifikasi pesanan real-time
@@ -346,6 +346,3 @@ PORT=5001
 4. **Promo** - Tambah sistem voucher & diskon
 5. **Notifikasi** - Integrasi WhatsApp API untuk notifikasi pesanan
 
----
-
-Selamat menggunakan Rumah Makan Kapau 99! 🍛
