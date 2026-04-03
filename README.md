@@ -4,7 +4,7 @@ Aplikasi pemesanan makanan online lengkap seperti GrabFood, dibangun dengan Reac
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer     | Teknologi                          |
 |-----------|------------------------------------|
